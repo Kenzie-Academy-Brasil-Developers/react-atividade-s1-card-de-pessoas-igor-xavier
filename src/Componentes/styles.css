@@ -1,0 +1,14 @@
+.NomeDev {
+  color: aqua;
+}
+.IdadeDev {
+  color: aquamarine;
+}
+.PaisDev {
+  color: rgb(79, 171, 233);
+}
+
+.board {
+  border-left: rgb(89, 153, 142) solid;
+  padding-left: 40px;
+}
